@@ -1,7 +1,6 @@
-Pet Finder React App Tutorial 🐶🐱
+Pet Finder React App🐶🐱
 
-Welcome to the Pet Finder React app tutorial repository! This project is designed to help budding developers learn the intricacies of React by building a comprehensive pet adoption website.
-Getting Started
+Petfinder is a compassionate platform dedicated to the welfare of animals. This website was conceived to bridge the gap between those in need of a loving pet companion and the wonderful animals awaiting their homes.
 
 To get the app up and running on your local machine, follow these instructions:
 Prerequisites
@@ -28,16 +27,13 @@ npm run dev
 
 This command will run both the frontend and the mock backend concurrently.
 
-Tutorial Overview
+Basic Flow of Webapp:
 
-In this tutorial, we'll be diving deep into the React ecosystem, focusing on:
+    Found an animal
+    Take them to shelter homes.
+    Do all necessary tests.
+    List them on the website with their details.
+    If a user finds a pet they want to take home they'll fill out the adoption form.
+    organization can then directly contact the user.
 
-    Creating dynamic React components
-    Managing state with useState and side effects with useEffect
-    Setting up routes with react-router-dom
-    Making API calls using axios
 
-... and much more!
-Feedback and Contributions
-
-Feel free to fork this repository, submit issues, or propose changes through pull requests. If you found this tutorial helpful or have suggestions for improvement, do let us know!
